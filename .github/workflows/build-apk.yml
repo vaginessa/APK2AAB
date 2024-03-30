@@ -1,7 +1,7 @@
 name: Android CI
 
 on:
-  # pushh:
+  # pus:
   pull_request:
   workflow_dispatch:
 
